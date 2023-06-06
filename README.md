@@ -4,6 +4,10 @@ System failure is a common issue across the manufacturing industry, where a vari
 
 AutoMobi Engineering Pvt. Ltd is an auto component manufacturing company. The manufacturing facility of AutoMobi consists of numerous products machined on several CNC (Computer Numerical Controlled) machines. In an attempt to transition to a data-driven maintenance process, the company had set up sensors in various locations to collect data regarding the various parameters involved in the manufacturing process. Initially, they want to try it in an injector nozzle manufacturing shop where they are manufacturing fuel injector nozzles for automobile engines using various manufacturing processes (like turning, drilling, etc). The company has been collecting data on an hourly basis from these sensors and aims to build ML-based solutions using the data to optimize cost, improve failure predictability, and minimize the downtime of equipment.
 
-**Objective**
+**Solution Approach**
 
 Developing a Machine Learning model to detect potential machine failures, determine the most influencing factors on machine health, and provide recommendations for cost optimization to the management.
+
+**Concepts:** Logistic Regression Modelling, Decision Tree Classification, Data Modelling, Data Pre-Processing, Feauture Engineering, EDA
+
+**Tools:** Python, Excel, JupyterNotebook
